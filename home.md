@@ -1,3 +1,3 @@
 # InfraBloom Photography
 
-Landscapes | Portraiture | Travel | Abstract
+[Landscapes](landscape/landscape.md) | Portraiture | Travel | Abstract
