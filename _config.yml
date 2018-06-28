@@ -1,1 +1,6 @@
+locale: "en-US"
+title: "InfraBloom Photography"
+
+# Theme settings
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark"
